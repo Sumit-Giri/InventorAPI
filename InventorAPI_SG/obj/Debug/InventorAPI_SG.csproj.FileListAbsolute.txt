@@ -1,0 +1,11 @@
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\bin\Debug\InventorAPI_SG.exe.config
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\bin\Debug\InventorAPI_SG.exe
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\bin\Debug\InventorAPI_SG.pdb
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\obj\Debug\InventorAPI_SG.csproj.AssemblyReference.cache
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\obj\Debug\InventorAPI_SG.csproj.ResolveComReference.cache
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\obj\Debug\InventorAPI_SG.Form1.resources
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\obj\Debug\InventorAPI_SG.Properties.Resources.resources
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\obj\Debug\InventorAPI_SG.csproj.GenerateResource.cache
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\obj\Debug\InventorAPI_SG.csproj.CoreCompileInputs.cache
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\obj\Debug\InventorAPI_SG.exe
+D:\Sumit_Workspace\InventorAPI\InventorAPI_SG\InventorAPI_SG\obj\Debug\InventorAPI_SG.pdb
